@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "typeRoots": ["types"],
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["./src/*"]
     }
   },
   "exclude": ["node_modules"]
