@@ -23,7 +23,7 @@ export const config: Config = {
   failureAction: "NONE",
 
   // Set if you want to log verification steps to a channel
-  logChannel: "verification-logs",
+  logChannel: "1433692995374419978",
 
   // Set backup options, you can also use "export" and "import" commands
   backup: {
