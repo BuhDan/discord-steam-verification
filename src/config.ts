@@ -11,7 +11,7 @@ export const config: Config = {
   prefix: "!",
 
   // Roles that will be given to user on successfull verification
-  roles: ["Playtester"],
+  roles: ["H8B282"],
 
   /*
     Choose what action bot will take when user doesn't have the app in their library.
@@ -23,7 +23,7 @@ export const config: Config = {
   failureAction: "NONE",
 
   // Set if you want to log verification steps to a channel
-  // logChannel: "555444333222111000",
+  logChannel: "verification-logs",
 
   // Set backup options, you can also use "export" and "import" commands
   backup: {
