@@ -2,7 +2,7 @@ import { type Config } from "types/config";
 
 export const config: Config = {
   // Steam APP IDs to check for
-  appId: ["123123", "343434"],
+  appId: ["2992720"],
 
   // The name of the bot that'll be used in certain places
   name: "Steam Verification Bot",
@@ -11,7 +11,7 @@ export const config: Config = {
   prefix: "!",
 
   // Roles that will be given to user on successfull verification
-  roles: ["000111222333444555"],
+  roles: ["Playtester"],
 
   /*
     Choose what action bot will take when user doesn't have the app in their library.
@@ -23,7 +23,7 @@ export const config: Config = {
   failureAction: "NONE",
 
   // Set if you want to log verification steps to a channel
-  logChannel: "555444333222111000",
+  // logChannel: "555444333222111000",
 
   // Set backup options, you can also use "export" and "import" commands
   backup: {
