@@ -11,7 +11,7 @@ export const config: Config = {
   prefix: "!",
 
   // Roles that will be given to user on successfull verification
-  roles: ["H8B282"],
+  roles: ["PT Verified"],
 
   /*
     Choose what action bot will take when user doesn't have the app in their library.
