@@ -19,7 +19,7 @@ export default {
     USER_LEFT_SERVER:
       ":anger: User {0} (`{1}`) left the server before completing the verification.",
     VERIFICATION_PRIVATE_MESSAGE:
-      "Hello **{0}** :wave: You have to verify yourself before starting to chat in **{1}** server! Please use the following link to verify that you own the specific Steam item in your library.\n\n:link: [{2}]({2})",
+      "Hello **{0}** :wave: You have to verify yourself before starting to chat in **{1}** server! Please use the following link to verify that you own the specific Steam item in your library.\n\n:link: [{2}](https://{2})",
   },
   errors: {
     commands: {
