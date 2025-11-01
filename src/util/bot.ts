@@ -169,7 +169,7 @@ export default class Bot extends Client {
           [
             member.username,
             guild.name,
-            `<${process.env.HOST}/verify/${guild.id}/${member.id}>`,
+            `${process.env.HOST}/verify/${guild.id}/${member.id}`,
           ]
         )
       );
